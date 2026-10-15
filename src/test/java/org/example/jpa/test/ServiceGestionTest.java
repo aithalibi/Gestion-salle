@@ -1,4 +1,4 @@
-package com.example.jpa.test;
+package org.example.jpa.test;
 
 import com.example.jpa.entities.Salle;
 import com.example.jpa.entities.Utilisateur;
